@@ -1,0 +1,8 @@
+ color: white;
+    background-color: #37475a;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 0.85rem;
+    margin-bottom: 0.8px;
